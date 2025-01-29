@@ -1,3 +1,6 @@
+<a href="https://rohpiietro.github.io/desafio-trilha-html-modulo-2/" target="_blank">Clique aqui para ver o projeto</a>
+
+
 # Trilha HTML - Dio.me
 ## Módulo 02 - HTML I - Conceitos Básicos
 
